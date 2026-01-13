@@ -17,9 +17,9 @@
 1. Откройте терминал (Ctrl + Alt + T)
 2. Выполните по очереди (вводите пароль, когда попросит):
 
-   sudo apt update
-   sudo apt upgrade -y
-   sudo apt install python3-pyqt6  ( Установка PyQt6)
+   а)sudo apt update
+   б)sudo apt upgrade -y
+   в)sudo apt install python3-pyqt6  ( Установка PyQt6)
 
 Шаг 2. Скачивание установщика ComfyUI
 ───────────────────────────────────────
