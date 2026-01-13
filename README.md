@@ -19,7 +19,7 @@
 
    sudo apt update
    sudo apt upgrade -y
-   sudo apt install -y python3 python3-venv python3-pip git wget curl gnome-terminal
+   sudo apt install python3-pyqt6  ( Установка PyQt6)
 
 Шаг 2. Скачивание установщика ComfyUI
 ───────────────────────────────────────
